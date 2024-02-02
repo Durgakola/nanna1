@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25f34f21-c759-4375-8c94-6a0a0fc193ea" name="Changes" comment="mailz">
+      <change afterPath="$PROJECT_DIR$/Amazon/AmzonLoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/Products.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/ProductsProcessService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/UserLoginDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank/CardDetalis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank/CardProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank/CreditService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank1/CardDetails1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank1/CardProcessingService1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bank1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDemo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDemo/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentDemo/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlineShopping/Biryani.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlineShopping/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlineShopping/DeliveryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlineShopping/KichenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlineShopping/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlineShopping/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rama123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rama.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2bfes9G8Qv05XmnveK6Fcq9EW5c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SchoolDemo.Addition" />
+      <module name="nanna1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SchoolDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bank.Test" />
+      <module name="nanna1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SchoolDemo.StudentTest" />
+      <module name="nanna1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SchoolDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bank1.Test" />
+      <module name="nanna1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bank1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="onlineShopping.TestClass" />
+      <module name="nanna1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onlineShopping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Bank.Test" />
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.Addition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25f34f21-c759-4375-8c94-6a0a0fc193ea" name="Changes" comment="" />
+      <created>1706610764493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706610764493</updated>
+    </task>
+    <task id="LOCAL-00001" summary="mail">
+      <created>1706611376195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706611376195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mail" />
+    <option name="LAST_COMMIT_MESSAGE" value="mail" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/Object.java</url>
+          <line>255</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
