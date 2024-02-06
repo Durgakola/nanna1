@@ -5,4 +5,8 @@ public class Student {
     public String fatherName;
     public String mobileNo;
     public String dateOfBirth;
+
+    public String schoolName;
+    public Address address;
+
 }

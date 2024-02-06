@@ -5,30 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25f34f21-c759-4375-8c94-6a0a0fc193ea" name="Changes" comment="mailz">
-      <change afterPath="$PROJECT_DIR$/Amazon/AmzonLoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/Products.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/ProductsProcessService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/UserLoginDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank/CardDetalis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank/CardProcessingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank/CreditService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank1/CardDetails1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank1/CardProcessingService1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDemo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDemo/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentDemo/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onlineShopping/Biryani.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onlineShopping/Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onlineShopping/DeliveryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onlineShopping/KichenService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onlineShopping/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/onlineShopping/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rama123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rama.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDemo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDemo/StudentMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDemo/StudentMarksService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDemo/StudentPassOrFail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDemo/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolDemo/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolDemo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolDemo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolDemo/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolDemo/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nanna1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nanna1/SchoolDemo/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/SchoolDemo/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nanna1/SchoolDemo/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/SchoolDemo/StudentTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +53,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SchoolDemo.Addition" />
+  <component name="RunManager" selected="Application.StudentMarksService">
+    <configuration name="Bank.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bank.Test" />
+      <module name="nanna1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolDemo.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SchoolDemo.Test" />
       <module name="nanna1" />
       <extension name="coverage">
         <pattern>
@@ -79,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bank.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bank.Test" />
+    <configuration name="StudentMarksService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SchoolDemo.StudentMarksService" />
       <module name="nanna1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bank.*" />
+          <option name="PATTERN" value="SchoolDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="onlineShopping.TestClass" />
-      <module name="nanna1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="onlineShopping.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentMarksService" />
+        <item itemvalue="Application.SchoolDemo.Test" />
+        <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Bank.Test" />
-        <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.Addition" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1706611376195</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mailz">
+      <created>1706858632510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706858632510</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mailz">
+      <created>1706858662640</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706858662640</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,7 +175,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mail" />
-    <option name="LAST_COMMIT_MESSAGE" value="mail" />
+    <MESSAGE value="mailz" />
+    <option name="LAST_COMMIT_MESSAGE" value="mailz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
