@@ -5,20 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25f34f21-c759-4375-8c94-6a0a0fc193ea" name="Changes" comment="mailz">
-      <change afterPath="$PROJECT_DIR$/SchoolDemo/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDemo/StudentMarksService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDemo/StudentPassOrFail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolDemo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marks/Marks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marks/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marks/StudentMarksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marks/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attendence/AttendenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attendence/Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attendence/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attendence/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constructor/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constructor/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constructor/Family.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constructor/FoodItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constructor/FoodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constructor/Helloworld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constructor/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constructor/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packagedemo/Instagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packagedemo/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packagedemo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protecteddemo/MobileTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolDemo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolDemo/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolDemo/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolDemo/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolDemo/StudentPassOrFail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineShopping/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/onlineShopping/TestClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/nanna1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nanna1/SchoolDemo/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/SchoolDemo/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nanna1/SchoolDemo/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/SchoolDemo/StudentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/nanna1/onlineShopping/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/onlineShopping/TestClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +62,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StudentMarksTest">
-    <configuration name="SchoolDemo.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SchoolDemo.Test" />
+  <component name="RunManager" selected="Application.Instagram">
+    <configuration name="FoodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructor.FoodTest" />
       <module name="nanna1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SchoolDemo.*" />
+          <option name="PATTERN" value="constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMarksService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SchoolDemo.StudentMarksService" />
+    <configuration name="Instagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packagedemo.Instagram" />
       <module name="nanna1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SchoolDemo.*" />
+          <option name="PATTERN" value="packagedemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMarksTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="marks.StudentMarksTest" />
+    <configuration name="MobileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="protecteddemo.MobileTest" />
       <module name="nanna1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="marks.*" />
+          <option name="PATTERN" value="protecteddemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SchoolDemo.StudentTest" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="packagedemo.Person" />
       <module name="nanna1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SchoolDemo.*" />
+          <option name="PATTERN" value="packagedemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bank1.Test" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructor.Student" />
       <module name="nanna1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bank1.*" />
+          <option name="PATTERN" value="constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentMarksTest" />
-        <item itemvalue="Application.StudentMarksService" />
-        <item itemvalue="Application.SchoolDemo.Test" />
-        <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Instagram" />
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.MobileTest" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.FoodTest" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706858662640</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mailz">
+      <created>1707189308742</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707189308742</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
