@@ -10,7 +10,6 @@ package packagedemo;
         public Instagram(String userName,String password){
             this.userName=userName;
             this.password=password;
-
         }
 
        public boolean login(String userName,String password) {
@@ -48,6 +47,5 @@ package packagedemo;
             else {
                 System.out.println("Your Credentials IS wrong");
             }
-
         }
     }
