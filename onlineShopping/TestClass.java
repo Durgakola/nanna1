@@ -19,6 +19,7 @@ public class TestClass {
         orderItem.setBiryani(biryani);
 
         Delivery delivery=new Delivery();
+
         delivery.setDeliveryService(deliveryService);
         delivery.setOrderItem(orderItem);
         delivery.setKichenService(kicheanService);
