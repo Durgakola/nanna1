@@ -5,51 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25f34f21-c759-4375-8c94-6a0a0fc193ea" name="Changes" comment="mailz">
-      <change afterPath="$PROJECT_DIR$/InterfaceDemo/Biryani.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceDemo/Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceDemo/DeliveryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceDemo/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceDemo/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceDemo/kichenService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/healthcare/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfacelatestdemo/BankLoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfacelatestdemo/BankOTPValidationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfacelatestdemo/HDFCBankLoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfacelatestdemo/SBIBankLoginProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfacelatestdemo/SBIBankLoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfacelatestdemo/SBILoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfacelatestdemo/forloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice1/EMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice1/HDFC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice1/SBI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practiceswiggy/FoodOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practiceswiggy/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practiceswiggy/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practiceswiggy/PhonePePayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practiceswiggy/SwiggyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practiceswiggy/SwiggyLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swiggy/PhonePayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swiggy/SBIBankService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swiggy/SwiggyOrderProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swiggy/SwiggyPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swiggy/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swiggy/model/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swiggy/model/PaymentRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swiggy/model/PaymentResponce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swiggy/model/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/onlineShopping/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/onlineShopping/Delivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/onlineShopping/DeliveryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/onlineShopping/DeliveryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/onlineShopping/KichenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/onlineShopping/KichenService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/onlineShopping/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/onlineShopping/OrderItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/onlineShopping/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/onlineShopping/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forlloopdemo/ForDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/forlloopdemo/ForDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/nanna1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nanna1/onlineShopping/Delivery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/onlineShopping/Delivery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nanna1/onlineShopping/DeliveryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/onlineShopping/DeliveryService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nanna1/onlineShopping/KichenService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/onlineShopping/KichenService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nanna1/onlineShopping/OrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/onlineShopping/OrderItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/nanna1/onlineShopping/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/onlineShopping/TestClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +45,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.forloop">
+  <component name="RunManager" selected="Application.ForDemo">
+    <configuration name="ForDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forlloopdemo.ForDemo" />
+      <module name="nanna1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forlloopdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SBILoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfacelatestdemo.SBILoginTest" />
       <module name="nanna1" />
@@ -107,19 +78,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="practiceswiggy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="onlineShopping.TestClass" />
-      <module name="nanna1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="onlineShopping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForDemo" />
         <item itemvalue="Application.forloop" />
         <item itemvalue="Application.SBILoginTest" />
         <item itemvalue="Application.SwiggyApp" />
         <item itemvalue="Application.practice1.Test" />
-        <item itemvalue="Application.TestClass" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708663288179</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="mailz">
+      <created>1709354641405</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709354641405</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +205,16 @@
           <url>jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/Object.java</url>
           <line>255</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/forlloopdemo/ForDemo.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/forlloopdemo/ForDemo.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/interfacelatestdemo/forloop.java</url>
