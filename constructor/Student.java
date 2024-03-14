@@ -4,6 +4,7 @@ public class Student {
     int id;
     String name;
     String email;
+
     public Student(){
 
     }
@@ -17,6 +18,7 @@ public class Student {
         this.email=email;
     }
     public void display(){
+
         System.out.println(id+ " "+name+" "+email);
     }
 

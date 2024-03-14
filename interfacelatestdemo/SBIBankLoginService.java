@@ -1,5 +1,7 @@
 package interfacelatestdemo;
 
+import java.util.Calendar;
+import java.util.Date;
 import java.util.UUID;
 
 public class SBIBankLoginService implements BankOTPValidationService {
@@ -8,6 +10,7 @@ public class SBIBankLoginService implements BankOTPValidationService {
     String password = "1234";
 
     String otp;
+    Date otpExpireTime;
 
 
     public SBIBankLoginService() {
@@ -24,19 +27,29 @@ public class SBIBankLoginService implements BankOTPValidationService {
 
     @Override
     public String generateOTP(String accountNumber) {
-        if(this.accountNumber.equals(accountNumber)) {
-            return otp = UUID.randomUUID().toString();
+        if (this.accountNumber.equals(accountNumber)) {
+            otp = UUID.randomUUID().toString();
+
+            Calendar otpExpiryCalender = Calendar.getInstance();
+            otpExpiryCalender.add(Calendar.SECOND, 60);
+            System.out.println("otpExpiryCalender " + otpExpiryCalender.getTime());
+             otpExpireTime = otpExpiryCalender.getTime();
+            return otp;
+
         }
         return null;
-}
+    }
 
 
     @Override
-    public boolean ValidateOTP(String otp) {
+    public boolean ValidateOTP(String otp) throws InvalidOTPException {
         if (this.otp.equals(otp)) {
             return true;
+        }else{
+            throw new InvalidOTPException(ErrorCodes.NEOTERIC_INVALID_OTP_1000.getCode(),
+                    ErrorCodes.NEOTERIC_INVALID_OTP_1000.getMessage());
         }
-        return false;
+
     }
 
 }
