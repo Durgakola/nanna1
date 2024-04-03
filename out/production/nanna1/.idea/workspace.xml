@@ -5,45 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25f34f21-c759-4375-8c94-6a0a0fc193ea" name="Changes" comment="mailz">
-      <change afterPath="$PROJECT_DIR$/bookmyshow/TicketBooking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmyshow1/BookTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmyshow1/Errorcodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmyshow1/ExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmyshow1/InsufficientbalanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmyshow1/InvalidCredintialsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmyshow1/InvalidInputException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmyshow1/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmyshow1/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception/Abstarct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception/Exceptiondemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception/FileException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception/FileNotException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception/LoginProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception/Process.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptiondemo/ExceptionDemoClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptiondemo/ExceptionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptiondemo/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptiondemo/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfacelatestdemo/ErrorCodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfacelatestdemo/InvalidOTPException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfacelatestdemo/InvalidRuntimeOTPException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfacelatestdemo/JavaDateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/standardprograms/EvenNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/standardprograms/FibbonciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/standardprograms/OddNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/standardprograms/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/standardprograms/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/standardprograms/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/standardprograms/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticdemo/StaticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singledemo/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singledemo/SingletonDemoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constructor/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/constructor/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfacelatestdemo/BankOTPValidationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/interfacelatestdemo/BankOTPValidationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfacelatestdemo/SBIBankLoginProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/interfacelatestdemo/SBIBankLoginProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfacelatestdemo/SBIBankLoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/interfacelatestdemo/SBIBankLoginService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfacelatestdemo/SBILoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/interfacelatestdemo/SBILoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/nanna1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/nanna1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/standardprograms/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/standardprograms/ReverseNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,20 +48,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Practice">
-    <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bookmyshow1.ExceptionTest" />
-      <module name="nanna1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bookmyshow1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseNumber">
     <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exceptiondemo.Practice" />
       <module name="nanna1" />
@@ -135,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingletonDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singledemo.SingletonDemoTest" />
+      <module name="nanna1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singledemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StaticDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="staticdemo.StaticDemo" />
       <module name="nanna1" />
@@ -150,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.SingletonDemoTest" />
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.Practice1" />
         <item itemvalue="Application.StaticDemo" />
-        <item itemvalue="Application.ExceptionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709363092876</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="mailz">
+      <created>1710406832145</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710406832145</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
